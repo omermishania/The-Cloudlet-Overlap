@@ -10,4 +10,4 @@
 ### Starting to work
 - Ask from your tutor to create a linux based VM for you
 - Start and connect to your VM
-- The trainee can now get his hands dirty using this VM
+- The newbie can now get his hands dirty using this VM
